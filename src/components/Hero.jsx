@@ -18,11 +18,11 @@ const Hero = () => {
             Bring Your <span className="text-red-500">Agents</span> to Life
           </h1>
           <p className="mt-4 text-base text-slate-300 sm:text-lg">
-            Merch bertema Valorant dengan vibes futuristik—dari plushies Agent, keycaps, sampai LED lights buat setup gaming kamu.
+            “Bawa Agent favoritmu ke dunia nyata.” Merch unik untuk gamer yang beda. Upgrade setup, biar makin kayak Radiant.
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <a href="#shop" className="inline-flex items-center gap-2 rounded-md bg-red-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-red-500">
-              <ShoppingCart className="h-4 w-4" /> Belanja Sekarang
+              <ShoppingCart className="h-4 w-4" /> Beli Sekarang
             </a>
             <a href="#collections" className="inline-flex items-center gap-2 rounded-md border border-slate-700 bg-slate-900/60 px-5 py-3 text-sm font-semibold text-slate-200 transition hover:bg-slate-800">
               Jelajah Koleksi <ArrowRight className="h-4 w-4" />
